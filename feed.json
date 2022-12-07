@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Zabel Iqbal",
+    "description": "",
+    "home_page_url": "https://zabeliqbal.github.io/zabeliqbal.com",
+    "feed_url": "https://zabeliqbal.github.io/zabeliqbal.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Zabel Iqbal"
+    },
+    "items": [
+        {
+            "id": "https://zabeliqbal.github.io/zabeliqbal.com/this-is-my-first-content.html",
+            "url": "https://zabeliqbal.github.io/zabeliqbal.com/this-is-my-first-content.html",
+            "title": "This is my First Content",
+            "summary": "My First Content Hello Everyone. My name is Zabel Iqbal. I'm 28 years old self taught developer. I build a few web based projects for myself and clients around the globe. I'm located in Langkawi, Malaysia.&nbsp; Currently I actively running two business; Tapawfood and Extratera&hellip;",
+            "content_html": "\n    <h2 id=\"my-first-content\">\n      My First Content\n    </h2>\n\n  <p>\n    Hello Everyone. My name is Zabel Iqbal. I'm 28 years old self taught developer. I build a few web based projects for myself and clients around the globe. I'm located in Langkawi, Malaysia.&nbsp;\n  </p>\n\n  <p>\n    Currently I actively running two business; Tapawfood and Extratera Solutions. Tapawfood is a Food Delivery Services company mainly focused at Langkawi and Extratera Solutions is a Web Development company focused on web based system development, mobile apps development and server provider.&nbsp;\n  </p>\n\n  <p>\n    Let's talk about Extratera Solutions (ES) first. ES was establised on 2018&nbsp;&nbsp;\n  </p>",
+            "author": {
+                "name": "Zabel Iqbal"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-07T15:06:05+08:00",
+            "date_modified": "2022-12-07T15:06:05+08:00"
+        }
+    ]
+}

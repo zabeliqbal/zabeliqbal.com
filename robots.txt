@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zabeliqbal.github.io/zabeliqbal.com/sitemap.xml
